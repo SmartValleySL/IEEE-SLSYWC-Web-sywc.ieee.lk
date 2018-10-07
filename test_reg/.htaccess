@@ -1,4 +1,0 @@
-AuthType Basic
-AuthName "reg"
-AuthUserFile "/home/svsl/.htpasswds/public_html/IEEE_slsywc/test_reg/passwd"
-require valid-user
